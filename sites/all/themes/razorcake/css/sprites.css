@@ -1,0 +1,24 @@
+.social-link{
+  position: relative;
+  float: right;
+  height: 42px;
+  width: 42px;
+  background-image: url('../images/social-sprite.png');
+  margin: 5px 2px;
+}
+
+.social-facebook{
+  background-position: 0 42px;
+}
+
+.social-facebook:hover{
+  background-position: 544px 42px;
+}
+
+.social-twitter{
+  background-position: -50px -2px;
+}
+
+.social-twitter:hover{
+  background-position: -601px -2px;
+}
