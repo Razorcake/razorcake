@@ -3,3 +3,4 @@ sites/*/files
 sites/*/private
 */node_modules
 *~
+sites/default/*
