@@ -4,3 +4,4 @@ sites/*/private
 */node_modules
 *~
 sites/default/*
+sites/all/*
