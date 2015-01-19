@@ -95,7 +95,7 @@ font-size: 16px;
   text-transform: uppercase;
 }
 
-header, .zone-content{
+.zone-content{
   background-color: #FFF;
 }
 
@@ -110,15 +110,6 @@ header, .zone-content{
 
 .zone-branding-wrapper{
   margin-top: 2em;
-}
-
-
-.section-header{
-  width: 960px;
-  margin: 0 auto;
-  border: 1px solid #CCDAD7;
-  border-bottom: none;
-  background-color: #ffffff;
 }
 
 .zone-content{
@@ -167,20 +158,6 @@ h2.block-title{
 
 #block-superfish-1{
 	 color:#F7F7F7;
-}
-
-
-/* kludge */
-.block-search {
-  float: right;
-  position: relative;
-/*
-  bottom: 10px;
-  left: 180px;
-*/
-  bottom: 30px;
-  left: 202px;  
-  
 }
 
 /* kludge */
